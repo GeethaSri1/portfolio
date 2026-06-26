@@ -1,0 +1,1 @@
+Add a developer workspace image as assets/hero.jpg before opening index.html.
